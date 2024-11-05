@@ -62,6 +62,7 @@ const LandingPage = () => {
   };
 
   return (
+    <>
     <div className="profile-container">
       <div className="profile-content">
         <h2 className="profile-heading">My Profile</h2>
@@ -125,6 +126,7 @@ const LandingPage = () => {
         </div>
       </div>
     </div>
+    </>
   );
 }
 
